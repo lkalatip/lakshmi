@@ -1,0 +1,30 @@
+question service-now exam
+
+1. Button, Link,Context menu etc what are these?
+2. In a typical instance arrage as theese number of maximum users -  admin,delegate admin,ess user,itil user
+3. what is retroactive SLA ?
+4. when SLA goes to pause state? - pause condition of sla
+5. Difference between client script and businee rule
+6. If two update set contains the update of same form or field what goes in the final merged update set?
+7. How to send the notification for the instance upgrade
+8. what is the role of mapping assist
+9. what is coelese field?
+10. what is order guide?
+11. what is the common in these open incident, create change link on the catalog?
+12. How to set the field as a display value of a table?
+13. How you can see dictionary information of a field from the form?
+14. In the incident form the number comes automatically as INC000012.how we can set the prefix to IN?
+15. How to show a report on the homepage?
+16  When I create a new table the system takes its element name automaticcally as:
+17. Can we delete the oob tables?
+18. What is fastest way to approve a request?
+19. What are the several type of client scripts?
+20  What is full form of SAS?
+21. What is the sequence of executing an acl
+22. How to change the colur of the banner text?
+23. Which table stores each of the individual SLAs attached to a tasks?
+24. Which is the role for the security admin?
+25. How can you make a workflow available for a request item
+26 Which of the following field get translated when we change the language
+27.Which of the following content are related to the knowledge in home page - gauge,news panel,list
+
